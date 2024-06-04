@@ -1,0 +1,33 @@
+.container-info{
+    box-sizing: border-box; 
+    width: 100%;
+    clear: both;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(122, 102, 102, 0.1);
+    padding: 50px 0;
+}
+
+.info {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: justify;
+    font-weight: 400;
+}
+
+.n3 {
+    color: gray;
+}
+
+.h, .p {
+    color: #cb3362;
+}
+
+.image {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.info, .image {
+    margin: 0 10px;
+}

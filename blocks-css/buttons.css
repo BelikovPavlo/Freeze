@@ -1,0 +1,34 @@
+.container-buttons{
+    box-sizing: border-box; 
+    width: 100%;
+    clear: both;
+    background-color: rgba(136, 230, 14, 0.9);
+    padding: 40px 0;
+    width: 100%;
+}
+
+.others ul {
+    display: flex;
+    justify-content: center;
+}
+
+.others li {
+    margin: 0 80px;
+}
+
+.others a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.others a img {
+    margin-bottom: 20px;
+}
+
+.others a:hover {
+    color: blue;
+}
