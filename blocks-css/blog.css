@@ -1,62 +1,70 @@
 .block1-blog img {
     float: left;
 }
-
+ 
 .block1-blog {
     font-size: 14px;
-    width: 660px;
-    float: left;
 }
-
+ 
 .block2-blog{
     text-align: center;
-    /* float: right; */
-    width: 150px;
     margin-top: 70px;
     margin-bottom: 100px;
     background-color: #eae7e8;
     height: 700px;
-    padding-top: 40px;
+    padding-top: 40px; 
+    width: 340px;
+    margin-top: 70px;
+    background-color: rgba(232, 210, 210, 0.5);
+    float: right;
 }
-
+ 
 .block2-blog h2 {
     color: #cb3362;
 }
-
+ 
 .block2-blog p {
     color: #cb3362;
 }
-
+ 
 .block2-blog p{
     text-align: center;
 }
-
+ 
 .block2-blog button {
     border: 40px black 2px;
     font-size: 20px;
     color: #cb3362;
     padding: 13px;
+    cursor: pointer;
 }
-
+ 
 .block1-blog button {
     border: 40px black 2px;
     font-size: 20px;
     color: #cb3362;
     padding: 13px;
+    cursor: pointer;
 }
-
+ 
 .block1-blog h2 {
     color: #cb3362;
     padding-top: 50px;
 }
-
+ 
 .block1-blog p{
     color: #cb3362;
 }
-
+ 
 .Load {
     border: 40px black 2px;
     font-size: 20px;
     color: #cb3362;
     padding: 13px;
+}
+ 
+.block1-blog{
+    width: 600px;
+    margin-top: 70px;
+    float: left;
 }
